@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 <div id="header" align="center">
-<img src="https://c.tenor.com/42rB73QdbaMAAAAi/kaczka-kaczuszka.gif" width="200"/>
+<img src="https://c.tenor.com/gdcvGVBNjX8AAAAi/popo-duck-duck.gif" width="200"/>
 </div>
 
 <div id="header" align="left">
