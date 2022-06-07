@@ -22,4 +22,4 @@ npm install
 node badduck.js [BOT_Token] [MSG_Content]
 ``
 
-3. obs: obviously you need to replace the above command entries with the requested information
+  **obs: obviously you need to replace the above command entries with the requested information**
